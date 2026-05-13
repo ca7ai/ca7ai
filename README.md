@@ -9,9 +9,7 @@ Last updated: 2026-05-13
 
 # Calistus Christian
 
-### Security & AI Safety Leader
-
-*Building secure AI systems and leading teams that protect high-stakes environments*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Security+%26+AI+Safety+Leader;Building+Secure+AI+Systems+at+Scale;Leading+High-Performing+Security+Teams;Red+Teaming+%7C+Cloud+Security+%7C+AI+Governance)](https://git.io/typing-svg)
 
 <br>
 
