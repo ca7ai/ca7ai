@@ -9,12 +9,6 @@ Last updated: 2026-05-13
 
 # Calistus Christian
 
-### Security & AI Safety Leader
-
-*Building secure AI systems and leading teams that protect high-stakes environments*
-
-<br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/calistuschristian)
 [![n8n](https://img.shields.io/badge/n8n_Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/creators/ca7ai/)
 
