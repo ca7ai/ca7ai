@@ -9,7 +9,7 @@ Last updated: 2026-05-13
 
 # Calistus Christian
 
-### 🛡️ Security & AI Safety Leader
+### Security & AI Safety Leader
 
 *Building secure AI systems and leading teams that protect high-stakes environments*
 
