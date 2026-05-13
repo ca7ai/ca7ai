@@ -11,9 +11,7 @@ Last updated: 2026-05-13
 
 ### 🛡️ Security & AI Safety Leader
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&repeat=true&width=800&lines=Building+Secure+AI+Systems+at+Scale;Leading+High-Performing+Security+Teams;Red+Teaming+%E2%80%A2+Cloud+Security+%E2%80%A2+AI+Governance" alt="Typing SVG" />
-</p>
+*Building secure AI systems and leading teams that protect high-stakes environments*
 
 <br>
 
