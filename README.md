@@ -9,7 +9,11 @@ Last updated: 2026-05-13
 
 # Calistus Christian
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Security+%26+AI+Safety+Leader;Building+Secure+AI+Systems+at+Scale;Leading+High-Performing+Security+Teams;Red+Teaming+%7C+Cloud+Security+%7C+AI+Governance)](https://git.io/typing-svg)
+### 🛡️ Security & AI Safety Leader
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&repeat=true&width=800&lines=Building+Secure+AI+Systems+at+Scale;Leading+High-Performing+Security+Teams;Red+Teaming+%E2%80%A2+Cloud+Security+%E2%80%A2+AI+Governance" alt="Typing SVG" />
+</p>
 
 <br>
 
