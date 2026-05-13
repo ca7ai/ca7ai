@@ -38,6 +38,7 @@ Sharing security tools and frameworks publicly to elevate industry security post
 
 ### AI Red Teaming & Vulnerability Detection
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -61,9 +62,11 @@ Autonomous multi-model red teaming - attacker agents vs victim LLMs
 </td>
 </tr>
 </table>
+</div>
 
 ### Threat Intelligence & Detection
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -87,9 +90,11 @@ Automated threat intelligence for Mirage ecosystem - S3 ingestion, daily/monthly
 </td>
 </tr>
 </table>
+</div>
 
 ### Security Intelligence Tools
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -112,6 +117,7 @@ Shodan CLI for exposed asset discovery and monitoring
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -119,6 +125,7 @@ Shodan CLI for exposed asset discovery and monitoring
 
 ## 🤖 Core Competencies
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -157,6 +164,7 @@ Shodan CLI for exposed asset discovery and monitoring
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
