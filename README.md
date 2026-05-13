@@ -171,10 +171,3 @@ Shodan CLI for exposed asset discovery and monitoring
 <div align="center">
 
 ---
-
-### 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/calistuschristian)
-[![n8n Workflows](https://img.shields.io/badge/n8n_Workflows-EA4B71?style=flat&logo=n8n&logoColor=white)](https://n8n.io/creators/ca7ai/)
-
-</div>
