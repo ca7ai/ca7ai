@@ -1,0 +1,9 @@
+# Local deployment guides
+DEPLOYMENT.md
+DEPLOYMENT_CHECKLIST.md
+
+# Internal agent docs
+docs/
+
+# macOS system files
+.DS_Store

@@ -36,6 +36,27 @@ Sharing security tools and frameworks publicly to elevate industry security post
 
 ## 🔒 Featured Projects
 
+### Agentic Safety & Containment Tooling
+
+<div align="center">
+<table>
+<tr>
+<td width="100%">
+
+#### [glasswall-sandbox](https://github.com/ca7ai/glasswall-sandbox)
+
+Lightweight, local-first agentic execution sandbox using macOS `sandbox-exec` profiles and Docker containment with token-optimized SQLite auditing.
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+
+</td>
+</tr>
+</table>
+</div>
+
 ### AI Red Teaming & Vulnerability Detection
 
 <div align="center">
@@ -166,10 +187,33 @@ Shodan CLI for exposed asset discovery and monitoring
 </table>
 </div>
 
+<!-- GITHUB STATS SECTION -->
+
+## 📊 GitHub Activity
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=ca7ai&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Calistus's GitHub Stats" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca7ai&layout=compact&theme=transparent&hide_border=true" alt="Calistus's Top Languages" />
+</td>
+</tr>
+</table>
+</div>
+
 ---
 
 <!-- FOOTER SECTION -->
 
 <div align="center">
 
----
+### 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/calistuschristian)
+[![n8n Workflows](https://img.shields.io/badge/n8n_Workflows-EA4B71?style=flat&logo=n8n&logoColor=white)](https://n8n.io/creators/ca7ai/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ca7ai)
+
+</div>
