@@ -186,34 +186,3 @@ Shodan CLI for exposed asset discovery and monitoring
 </tr>
 </table>
 </div>
-
-<!-- GITHUB STATS SECTION -->
-
-## 📊 GitHub Activity
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=ca7ai&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Calistus's GitHub Stats" />
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca7ai&layout=compact&theme=transparent&hide_border=true" alt="Calistus's Top Languages" />
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<!-- FOOTER SECTION -->
-
-<div align="center">
-
-### 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/calistuschristian)
-[![n8n Workflows](https://img.shields.io/badge/n8n_Workflows-EA4B71?style=flat&logo=n8n&logoColor=white)](https://n8n.io/creators/ca7ai/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ca7ai)
-
-</div>
