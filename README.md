@@ -24,7 +24,7 @@ Last updated: 2026-11-09
 
 I lead security teams in high-stakes environments, with a focus on **cloud security** and **AI governance**. I protect critical systems while keeping the business moving fast.
 
-I still build. Red teaming engines, LLM honeypots, agent sandboxes, and threat intel pipelines all live here, shared openly so the rest of the industry can defend better.
+I build Red and teaming engines, LLM honeypots, agent sandboxes, and threat intel pipelines which all live here, shared openly so the rest of the industry can defend better.
 
 ```yaml
 focus:      [agentic containment, LLM red teaming, AI governance]
