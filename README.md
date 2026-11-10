@@ -1,188 +1,173 @@
-<!-- 
+<!--
 GitHub Profile for Calistus Christian (@ca7ai)
 Executive narrative for Sr Manager positioning
-Last updated: 2026-05-13
+Last updated: 2026-11-09
 -->
 
-<!-- HERO SECTION -->
 <div align="center">
 
-# Calistus Christian
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Calistus Christian, Security and AI Safety Leader" src="./assets/hero-dark.svg" width="100%">
+</picture>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/calistuschristian)
-[![n8n](https://img.shields.io/badge/n8n_Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/creators/ca7ai/)
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F17)](https://linkedin.com/in/calistuschristian)
+[![n8n](https://img.shields.io/badge/n8n-Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0B0F17)](https://n8n.io/creators/ca7ai/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-2DD4BF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F17)](https://github.com/ca7ai)
 
 </div>
 
 <br>
 
----
+I lead security teams in high-stakes environments, with a focus on **cloud security** and **AI governance**. I protect critical systems while keeping the business moving fast.
 
-<!-- ABOUT SECTION -->
+I still build. Red teaming engines, LLM honeypots, agent sandboxes, and threat intel pipelines all live here, shared openly so the rest of the industry can defend better.
 
-## 👤 About
+```yaml
+focus:      [agentic containment, LLM red teaming, AI governance]
+leadership: [team scaling, incident response, security strategy]
+stack:      [AWS, Bedrock, Python, Go, Docker, Lambda, n8n]
+```
 
-Leading security teams in high-stakes environments, specializing in cloud security and AI governance. Focus on protecting critical systems while enabling innovation at scale.
+<img src="./assets/divider.svg" width="100%" alt="">
 
-Built automation frameworks, red teaming engines, and threat intelligence systems from the ground up. Deep expertise in adversarial AI, LLM security, and serverless security architectures.
+## Featured Work
 
-Scaled teams, implemented enterprise security controls, and led incident response at scale. Track record of building high-performing security organizations that balance risk management with business velocity.
-
-Sharing security tools and frameworks publicly to elevate industry security posture. Believe in transparent security practices and community-driven defense.
-
----
-
-<!-- FEATURED PROJECTS SECTION -->
-
-## 🔒 Featured Projects
-
-### Agentic Safety & Containment Tooling
-
-<div align="center">
 <table>
 <tr>
-<td width="100%">
+<td colspan="2" valign="top">
 
-#### [glasswall-sandbox](https://github.com/ca7ai/glasswall-sandbox)
+<sub><code>01 · AGENTIC CONTAINMENT</code></sub>
 
-Lightweight, local-first agentic execution sandbox using macOS `sandbox-exec` profiles and Docker containment with token-optimized SQLite auditing.
+### [glasswall-sandbox](https://github.com/ca7ai/glasswall-sandbox)
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+Local-first execution sandbox for AI agents. Wraps untrusted agent actions in macOS `sandbox-exec` profiles and Docker containment, with token-optimized SQLite audit trails.
+
+![Go](https://img.shields.io/badge/Go-0B0F17?style=flat-square&logo=go&logoColor=00ADD8)
+![macOS](https://img.shields.io/badge/macOS-0B0F17?style=flat-square&logo=apple&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0B0F17?style=flat-square&logo=docker&logoColor=2496ED)
+![SQLite](https://img.shields.io/badge/SQLite-0B0F17?style=flat-square&logo=sqlite&logoColor=4FA3D1)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sub><code>02 · AI RED TEAMING</code></sub>
+
+### [LLM-Vulnerability-Scanner](https://github.com/ca7ai/LLM-Vulnerability-Scanner)
+
+Serverless red teaming engine for AWS Bedrock. Scans Llama 3, Claude 3, and custom models for exploitable weaknesses.
+
+![Python](https://img.shields.io/badge/Python-0B0F17?style=flat-square&logo=python&logoColor=FFD43B)
+![AWS](https://img.shields.io/badge/AWS-0B0F17?style=flat-square&logo=amazonaws&logoColor=FF9900)
+
+</td>
+<td width="50%" valign="top">
+
+<sub><code>02 · AI RED TEAMING</code></sub>
+
+### [RedTeam-Agent](https://github.com/ca7ai/RedTeam-Agent)
+
+Autonomous multi-model red teaming. Attacker agents probe victim LLMs to surface failures before adversaries do.
+
+![Python](https://img.shields.io/badge/Python-0B0F17?style=flat-square&logo=python&logoColor=FFD43B)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sub><code>03 · THREAT INTELLIGENCE</code></sub>
+
+### [Mirage-HoneyPot](https://github.com/ca7ai/Mirage-HoneyPot)
+
+LLM-specific honeypot that exploits token limits. Dual Trap and Radar components lure and fingerprint attackers.
+
+![Python](https://img.shields.io/badge/Python-0B0F17?style=flat-square&logo=python&logoColor=FFD43B)
+
+</td>
+<td width="50%" valign="top">
+
+<sub><code>03 · THREAT INTELLIGENCE</code></sub>
+
+### [Mirage-Sight](https://github.com/ca7ai/Mirage-Sight)
+
+Automated threat intel for the Mirage ecosystem. S3 ingestion feeding daily and monthly intelligence reports.
+
+![Python](https://img.shields.io/badge/Python-0B0F17?style=flat-square&logo=python&logoColor=FFD43B)
+![AWS](https://img.shields.io/badge/AWS-0B0F17?style=flat-square&logo=amazonaws&logoColor=FF9900)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sub><code>04 · SECURITY TOOLING</code></sub>
+
+### [pp-virustotal](https://github.com/ca7ai/pp-virustotal)
+
+VirusTotal CLI built for fast, scriptable threat analysis workflows.
+
+![Go](https://img.shields.io/badge/Go-0B0F17?style=flat-square&logo=go&logoColor=00ADD8)
+
+</td>
+<td width="50%" valign="top">
+
+<sub><code>04 · SECURITY TOOLING</code></sub>
+
+### [pp-shodan](https://github.com/ca7ai/pp-shodan)
+
+Shodan CLI for discovering and monitoring exposed assets.
+
+![Go](https://img.shields.io/badge/Go-0B0F17?style=flat-square&logo=go&logoColor=00ADD8)
 
 </td>
 </tr>
 </table>
-</div>
 
-### AI Red Teaming & Vulnerability Detection
+<img src="./assets/divider.svg" width="100%" alt="">
 
-<div align="center">
+## What I Bring
+
 <table>
 <tr>
-<td width="50%">
+<td width="25%" valign="top">
 
-#### [LLM-Vulnerability-Scanner](https://github.com/ca7ai/LLM-Vulnerability-Scanner)
+**☁️ Cloud Security**
 
-Serverless red teaming engine for AWS Bedrock - scans Llama 3, Claude 3, custom models
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+<sub>AWS and multi-cloud<br>Infrastructure compliance<br>Serverless architectures</sub>
 
 </td>
-<td width="50%">
+<td width="25%" valign="top">
 
-#### [RedTeam-Agent](https://github.com/ca7ai/RedTeam-Agent)
+**🛡️ AI / LLM Security**
 
-Autonomous multi-model red teaming - attacker agents vs victim LLMs
+<sub>Model red teaming<br>Prompt injection defense<br>AI governance frameworks</sub>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+</td>
+<td width="25%" valign="top">
+
+**⚙️ Automation**
+
+<sub>Python security tooling<br>Lambda and Step Functions<br>n8n orchestration</sub>
+
+</td>
+<td width="25%" valign="top">
+
+**👥 Leadership**
+
+<sub>Team scaling and talent<br>Incident response<br>Security strategy and risk</sub>
 
 </td>
 </tr>
 </table>
-</div>
 
-### Threat Intelligence & Detection
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-#### [Mirage-HoneyPot](https://github.com/ca7ai/Mirage-HoneyPot)
-
-LLM-specific honeypot exploiting token limits - dual Trap & Radar components
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-</td>
-<td width="50%">
-
-#### [Mirage-Sight](https://github.com/ca7ai/Mirage-Sight)
-
-Automated threat intelligence for Mirage ecosystem - S3 ingestion, daily/monthly feeds
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-</td>
-</tr>
-</table>
-</div>
-
-### Security Intelligence Tools
+<br>
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-
-#### [pp-virustotal](https://github.com/ca7ai/pp-virustotal)
-
-VirusTotal CLI integration for threat analysis workflows
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-</td>
-<td width="50%">
-
-#### [pp-shodan](https://github.com/ca7ai/pp-shodan)
-
-Shodan CLI for exposed asset discovery and monitoring
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<!-- CORE COMPETENCIES SECTION -->
-
-## 🤖 Core Competencies
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### ☁️ Cloud Security
-- AWS and multi-cloud environments
-- Infrastructure security and compliance
-- Serverless security architectures
-
-</td>
-<td width="50%">
-
-### 🛡️ AI/LLM Security
-- Model red teaming and adversarial testing
-- Prompt injection defense
-- AI governance frameworks
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔧 Automation & Tools
-- Python for security automation
-- Serverless architectures (Lambda, Step Functions)
-- n8n workflow orchestration
-
-</td>
-<td width="50%">
-
-### 👥 Leadership
-- Team scaling and talent development
-- Incident management and response
-- Security strategy and risk management
-
-</td>
-</tr>
-</table>
+<sub><code>Red team the models. Contain the agents. Defend the cloud.</code></sub>
 </div>

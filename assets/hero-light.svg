@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Calistus Christian, Security and AI Safety Leader">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#DDE3EC"/>
+    </pattern>
+    <linearGradient id="rule" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#FF5A36"/>
+      <stop offset="0.5" stop-color="#B26BFF"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <radialGradient id="glowRed" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FF5A36" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#FF5A36" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowTeal" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fadeLeft" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#F6F8FB" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#F6F8FB" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#F6F8FB" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="420" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="420" fill="#F6F8FB"/>
+    <rect width="1200" height="420" fill="url(#dots)"/>
+
+    <!-- red team / blue team glows -->
+    <circle cx="930" cy="150" r="260" fill="url(#glowRed)"/>
+    <circle cx="1060" cy="300" r="240" fill="url(#glowTeal)"/>
+
+    <!-- containment lattice: nested hexagons -->
+    <g fill="none" stroke-linejoin="round" transform="translate(980 210)">
+      <polygon points="0,-190 164.5,-95 164.5,95 0,190 -164.5,95 -164.5,-95" stroke="#2DD4BF" stroke-opacity="0.18" stroke-width="1.5"/>
+      <polygon points="0,-150 129.9,-75 129.9,75 0,150 -129.9,75 -129.9,-75" stroke="#2DD4BF" stroke-opacity="0.28" stroke-width="1.5"/>
+      <polygon points="0,-110 95.3,-55 95.3,55 0,110 -95.3,55 -95.3,-55" stroke="#B26BFF" stroke-opacity="0.35" stroke-width="1.5"/>
+      <polygon points="0,-70 60.6,-35 60.6,35 0,70 -60.6,35 -60.6,-35" stroke="#FF5A36" stroke-opacity="0.55" stroke-width="2"/>
+      <polygon points="0,-30 26,-15 26,15 0,30 -26,15 -26,-15" fill="#FF5A36" fill-opacity="0.85"/>
+      <!-- spokes -->
+      <g stroke="#2DD4BF" stroke-opacity="0.12" stroke-width="1">
+        <line x1="0" y1="-190" x2="0" y2="190"/>
+        <line x1="-164.5" y1="-95" x2="164.5" y2="95"/>
+        <line x1="-164.5" y1="95" x2="164.5" y2="-95"/>
+      </g>
+      <!-- nodes -->
+      <g fill="#2DD4BF">
+        <circle cx="0" cy="-150" r="3.5"/><circle cx="129.9" cy="-75" r="3.5"/>
+        <circle cx="129.9" cy="75" r="3.5"/><circle cx="0" cy="150" r="3.5"/>
+        <circle cx="-129.9" cy="75" r="3.5"/><circle cx="-129.9" cy="-75" r="3.5"/>
+      </g>
+      <g fill="#FF5A36">
+        <circle cx="60.6" cy="-35" r="3"/><circle cx="-60.6" cy="35" r="3"/>
+      </g>
+    </g>
+
+    <!-- keep text legible over lattice -->
+    <rect width="820" height="420" fill="url(#fadeLeft)"/>
+
+    <!-- eyebrow -->
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="3">
+      <rect x="72" y="76" width="10" height="10" fill="#FF5A36"/>
+      <text x="94" y="86" fill="#0F8F80">CA7AI</text>
+      <text x="160" y="86" fill="#A3ACBA">//</text>
+      <text x="190" y="86" fill="#5B6577">SECURITY · AI SAFETY · CLOUD</text>
+    </g>
+
+    <!-- name -->
+    <text x="68" y="182" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-2" fill="#0B0F17">Calistus Christian</text>
+
+    <!-- title -->
+    <text x="72" y="234" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#2A3342">Security &amp; AI Safety Leader</text>
+
+    <!-- tagline -->
+    <text x="72" y="278" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#5B6577">Building secure AI systems and leading teams that protect high-stakes environments.</text>
+
+    <!-- capability chips -->
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.5" font-weight="600">
+      <rect x="72" y="320" width="178" height="34" rx="17" fill="#FF5A36" fill-opacity="0.10" stroke="#FF5A36" stroke-opacity="0.55"/>
+      <circle cx="92" cy="337" r="4" fill="#FF5A36"/>
+      <text x="106" y="342" fill="#C23A1A">RED TEAM LLMS</text>
+
+      <rect x="264" y="320" width="196" height="34" rx="17" fill="#B26BFF" fill-opacity="0.10" stroke="#B26BFF" stroke-opacity="0.55"/>
+      <circle cx="284" cy="337" r="4" fill="#B26BFF"/>
+      <text x="298" y="342" fill="#7A3FD1">CONTAIN AGENTS</text>
+
+      <rect x="474" y="320" width="176" height="34" rx="17" fill="#2DD4BF" fill-opacity="0.10" stroke="#2DD4BF" stroke-opacity="0.55"/>
+      <circle cx="494" cy="337" r="4" fill="#2DD4BF"/>
+      <text x="508" y="342" fill="#0F8F80">DEFEND CLOUD</text>
+    </g>
+
+    <!-- bottom rule -->
+    <rect x="0" y="414" width="1200" height="6" fill="url(#rule)"/>
+  </g>
+</svg>
