@@ -15,7 +15,7 @@
 
 <br>
 
-I lead security in regulated financial services: cloud security, AI governance, and incident response.
+I lead security in regulated industries, from fintech and finance to big law: cloud security, AI governance, and incident response.
 
 I build the tools below to pressure-test AI systems before they reach production, and to decide which controls are worth asking a team to adopt.
 
